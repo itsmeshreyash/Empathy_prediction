@@ -2,6 +2,7 @@
 
 ## Requirements
    - Python 3
+   - jupyter notebook
    - Numpy
    - Sklearn
    - Pandas
