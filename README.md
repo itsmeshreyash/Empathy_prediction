@@ -1,4 +1,4 @@
-# Empathy_prediction
+# Empathy Prediction
 
 ## Requirements
    - Python 3
